@@ -50,32 +50,32 @@ No has de completar tot el formulari: si no recordes el nom del restaurant, no i
 
 ![](images/image-4.png)
 
-#### Cinquième étape : enregistrez vos modifications
+#### Pas cinc: desar els canvis
 
-Lorsque vous avez terminé, il ne vous reste plus qu'à enregistrer les modifications en cliquant sur le bouton en haut à droite de l'écran.
+Quan hagis acabat, tot el que has de fer és guardar els canvis fent clic al botó 'Desar' a la part superior dreta de la pantalla.
 
-![le bouton en haut à droite permet d'enregistrer les modifications](images/image-5.png)
+![El botó de la dreta que et permet guardar els canvis](images/image-5.png)
 
-Ajoutez un petit message pour indiquer ce que vous avez modifié sur la carte, puis cliquez sur le bouton "Envoyer"
+Afegeix un petit missatge per indicar el que has canviat en el mapa, i després fes clic al botó 'Pujar'.
 
-![indiquez ce que vous avez changé puis cliquez sur le bouton bleu](images/image-6.png)
+![Indica que has fet canvis amb el botó blau](images/image-6.png)
 
-#### Voilà !
+#### Llest!
 
-Félicitations pour cette première contribution, et bienvenue dans la communauté OpenStreetMap !
+Felicitats per aquesta primera contribució i benvingut a la comunitat OpenStreetMap!
 
-Il ne vous reste plus qu'à patienter : les nouveaux commerces sont ajoutés régulièrement et automatiquement dans **Ça reste ouvert**. Vous pourrez alors y indiquer les éventuels informations complémentaires utiles en temps de confinement, directement sur le site.
+Ara cal esperar: els nous negocis s'agreguen regularment i automàticament a **És obert**. Pots indicar qualsevol informació addicional útil durant l'Estat d'Alarma directament allà.
 
-#### Quelques remarques complémentaires
+#### Algunes observacions addicionals
 
-Avant de créer votre commerce manquant, examinez attentivement les lieux déjà existants : il est peut-être déjà présent mais avec le mauvais type !
+Abans de crear el negoci, examina acuradament els voltants: pot ser que ja hi sigui, però amb el tipus incorrecte.
 
-OpenStreetMap est une carte publique : ne renseignez aucune donnée personnelle vous concernant ou concernant les commerçants que vous décrivez.
+OpenStreetMap és un mapa públic: no ingressis cap dada personal sobre tu o els comerços que descriguis.
 
-Ne copiez pas les informations d'autres cartes, elles sont en général protégées par le droit d'auteur.
+No copiïs la informació d'altres mapes, generalment estan protegits per drets d'autor.
 
-### J'ai besoin d'aide
+### Necessito ajuda
 
-Si vous rencontrez des difficultés ou avez des questions, n'hésitez pas à faire un tour sur [le forum de la communauté francophone](http://forum.openstreetmap.fr) ! Ces bénévoles sont très réactifs et bienveillants.
+Si tens dificultats o preguntes no dubtis a consultar la comunitat espanyola. Els voluntaris són molt receptius i atents. [El Telegram de la comunitat espanyola] (http://t.me/OSMES) .
 
-Nous comptons sur vous et sur votre connaissance de votre quartier pour créer la meilleure carte du monde et agir ensemble concrètement durant cette crise #Covid19.
+Comptem amb tu i el teu coneixement local per crear el millor mapa de món i actuar junts en termes concrets durant aquesta crisi # Covid19.
