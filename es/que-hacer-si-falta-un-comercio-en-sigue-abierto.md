@@ -4,16 +4,13 @@ date: "2020-04-12"
 coverImage: "3_Tipo_de_comercio.png"
 ---
 
-_¿No encuentras tu panadería o farmacia habitual en [Sigue abierto](https://sigueabierto.openstreetmap.es) ? Sigue esta guía para ayudarnos a mejorar nuestro mapa colaborativo de sitios accesibles durante el Estado de Alarma.
-_
+¿No encuentras tu panadería o farmacia habitual en [Sigue abierto](https://sigueabierto.openstreetmap.es) ? Sigue esta guía para ayudarnos a mejorar nuestro mapa colaborativo de sitios accesibles durante el Estado de Alarma.
+
 
 **Sigue abierto** se basa en los datos de [OpenStreetMap](http://openstreetmap.org) (OSM). OSM es un poco como la 'Wikipedia de la cartografía': un mapa del mundo que puedes enriquecer en función de tu conocimiento local.
 
 
 Y eso es lo que vamos a hacer: ¡modificar el mapa para agregar ese comercio que falta!
-
-
-![](images/décor-facebook-1024x399.png)
 
 #### Primer paso: crear una cuenta
 
@@ -42,7 +39,7 @@ Para crear el comercio que falta, sitúa el mapa donde está este, haz clic en e
 
 Luego, usando el campo de búsqueda, indica el tipo de comercio que deseas crear.
 
-![el campo búsqueda te permite encontrar fácilmente la categoría de comercios a crear](images/3_Tipo_de comercio.png)
+![el campo búsqueda te permite encontrar fácilmente la categoría de comercios a crear](images/3_Tipo_de_comercio.png)
 
 _Consejo: Si deseas informar de una empresa franquiciada o perteneciente a una red, también puedes buscar el nombre de la marca (por ejemplo 'BBVA')_
 
@@ -62,7 +59,7 @@ Cuando hayas terminado, todo lo que tienes que hacer es guardar los cambios haci
 
 Agrega un pequeño mensaje para indicar lo que has cambiado en el mapa, luego haz clic en el botón 'Subir'.
 
-![indica que has hecho cambios con el botón azul](images/6_Subir a OSM.png)
+![indica que has hecho cambios con el botón azul](images/6_Subir_a_OSM.png)
 
 #### ¡Listo!
 
@@ -80,6 +77,6 @@ No copies la información de otros mapas, generalmente están protegidos por der
 
 ### Necesito ayuda
 
-Si tienes dificultades o preguntas no dudes en consultar a la comunidad española. Los voluntarios son muy receptivos y atentos. [el Telegram de la comunidad española](http://t.me/OSMES) 
+Si tienes dificultades o preguntas no dudes en consultar a la comunidad española. Los voluntarios son muy receptivos y atentos. [Grupo Telegram de la comunidad española](http://t.me/OSMES) 
 
 Contamos contigo y tu conocimiento local para crear el mejor mapa del mundo y actuar juntos en términos concretos durante esta crisis # Covid19.
